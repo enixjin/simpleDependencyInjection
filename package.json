@@ -1,0 +1,11 @@
+{
+  "name": "simpledependencyinjection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require ts-node/register --watch-extensions ts 'src/test/**/*.test.ts'"
+  },
+  "author": "enixjin",
+  "license": "ISC"
+}
